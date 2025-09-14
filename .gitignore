@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.h5
+*.csv
+*.tsv
+*.json
+*.xml
+*.yaml
+*.yml
+*.env
+venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Arduino
+*.hex
+*.elf
+*.bin
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Virtual environments
+facial_env/
+
+# Others
+*.swp
+*.swo
+
+# Ignore site-packages
+facial_env/Lib/site-packages/
